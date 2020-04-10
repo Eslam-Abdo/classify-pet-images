@@ -28,5 +28,5 @@ To install these dependencies with pip, you can issue `pip install -r requiremen
 
 ## TO RUN 
 
-write `python check_images.py`
+Write `python check_images.py`
 
